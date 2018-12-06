@@ -1,0 +1,16 @@
+{
+  "name": "bidding",
+  "version": "1.0.0",
+  "description": "bidding app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "author": "wishy",
+  "license": "ISC"
+}
